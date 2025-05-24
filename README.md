@@ -1,16 +1,19 @@
-# linux-font
+# Fonts for Linux
 
-Good, useful fonts for linux using
+推荐使用 **Monaco New Nerd**
 
--   [Monaco](./Monaco)
--   [Microsoft Sans Serif](./Microsoft Sans Serif)
--   [Arial](./Arial)
--   [CodeNewRoman](./CodeNewRomanNerd)
+- [Monaco](./Monaco)
+- [MicrosoftSansSerif](./Microsoft Sans Serif)
+- [Arial](./Arial)
+- [CodeNewRoman](./CodeNewRomanNerd)
 
-## [New] Windows 10 Fonts
+## Fonts on Windows
 
-Add windows fonts to [win-fonts](./win-fonts)
+Add some windows fonts to [win-fonts](./win-fonts)
 
 ## Tips
 
 If you are using a terminal, I recommend to use Nerd fonts
+
+⚠️ 禁止用于任何商业用途，仅个人使用，主要就是拥有更好的编程感官体验。
+
